@@ -2,7 +2,7 @@
 
 > Lightweight, privacy-first session analytics • ≤35KB • Zero PII • GDPR Compliant
 
-[![Deploy on Replit](https://replit.com/badge/github/yourusername/insightlite)](https://replit.com/@yourusername/insightlite)
+[![Deploy on Replit](https://replit.com/badge/github/Theopsguide/insightlite)](https://replit.com/new/github/Theopsguide/insightlite)
 
 ## 🚀 Deploy on Replit in 30 Seconds
 
