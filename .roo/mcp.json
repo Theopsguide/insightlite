@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/filesystem-mcp-server"],
+      "env": {
+        "MCP_FILESYSTEM_ALLOWED_PATHS": "."
+      }
+    },
+    "web-fetch": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/web-fetch-mcp-server"]
+    },
+    "batch-tool": {
+      "command": "npx", 
+      "args": ["-y", "@anthropic-ai/batch-mcp-server"]
+    }
+  }
+}
